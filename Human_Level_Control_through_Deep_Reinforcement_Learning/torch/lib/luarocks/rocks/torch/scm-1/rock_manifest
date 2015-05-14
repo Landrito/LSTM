@@ -1,0 +1,48 @@
+rock_manifest = {
+   doc = {
+      ['cmdline.md'] = "1f2bd884030ad4de1c3760c68904cba0",
+      ['diskfile.md'] = "f2abb5f04b036877688e2ba9cf358105",
+      ['file.md'] = "31fe518435bee83f1ab6ad887104b973",
+      ['maths.md'] = "053d2fb904c2dbb547b293c371af4495",
+      ['memoryfile.md'] = "5599215d05fa4e6f4190fa8c119812ef",
+      ['pipefile.md'] = "7b9f0c955a72b58df9f3fae396ae6bc8",
+      ['random.md'] = "51b85578f107050c8905c6adc1142520",
+      ['serialization.md'] = "4e32d602be6646b541fc540dfe5eee3c",
+      ['storage.md'] = "48e9cd97942fe7622fa862ffc19338c7",
+      ['tensor.md'] = "04a84950f7bfa41b762b5cdd58dfea0f",
+      ['tester.md'] = "c80d3b5607f26e64b92f72ff5c7a866b",
+      ['timer.md'] = "4158f96ffc630a49ec4cbab1c32fa73e",
+      ['utility.md'] = "66cfaddf802af3d2d070d4614728778b"
+   },
+   lib = {
+      ['libtorch.so'] = "340b4bc855e02a3c3f4f25862a2c30bb"
+   },
+   lua = {
+      torch = {
+         ['CmdLine.lua'] = "351050bbfa55425b487a42b6232d5b7b",
+         ['FFI.lua'] = "a12872e87b408a76316148fd4de5c6af",
+         ['File.lua'] = "5623496b5b718db6877f6742d02364f2",
+         ['README.md'] = "5ca061e3e171c449efb0f8ed3a98161a",
+         ['Tensor.lua'] = "aac984a6cc563bd54416c8384938f27e",
+         ['Tester.lua'] = "f8deb4673c4c0ce0f6a93344722e707e",
+         doc = {
+            ['cmdline.md'] = "1f2bd884030ad4de1c3760c68904cba0",
+            ['diskfile.md'] = "f2abb5f04b036877688e2ba9cf358105",
+            ['file.md'] = "31fe518435bee83f1ab6ad887104b973",
+            ['maths.md'] = "053d2fb904c2dbb547b293c371af4495",
+            ['memoryfile.md'] = "5599215d05fa4e6f4190fa8c119812ef",
+            ['pipefile.md'] = "7b9f0c955a72b58df9f3fae396ae6bc8",
+            ['random.md'] = "51b85578f107050c8905c6adc1142520",
+            ['serialization.md'] = "4e32d602be6646b541fc540dfe5eee3c",
+            ['storage.md'] = "48e9cd97942fe7622fa862ffc19338c7",
+            ['tensor.md'] = "04a84950f7bfa41b762b5cdd58dfea0f",
+            ['tester.md'] = "c80d3b5607f26e64b92f72ff5c7a866b",
+            ['timer.md'] = "4158f96ffc630a49ec4cbab1c32fa73e",
+            ['utility.md'] = "66cfaddf802af3d2d070d4614728778b"
+         },
+         ['init.lua'] = "cc478a584b9928814b61c1a2870de8fe",
+         ['test.lua'] = "f10c027560e4b0a435e071026aace209"
+      }
+   },
+   ['torch-scm-1.rockspec'] = "d78a0d822851f28fd23e2e0a524338b0"
+}

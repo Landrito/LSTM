@@ -1,0 +1,14 @@
+rock_manifest = {
+   doc = {
+      ['README.md'] = "8beef1dab773d1c9b445b83a89ff5697"
+   },
+   lib = {
+      ['libpaths.so'] = "08eee654316f4b5c6a9c1e84c3533cc8"
+   },
+   lua = {
+      paths = {
+         ['init.lua'] = "cf922b4b82eaedc63fcc42f4313b0452"
+      }
+   },
+   ['paths-scm-1.rockspec'] = "f826068bc349e672e4300964c6122670"
+}
